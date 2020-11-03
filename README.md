@@ -6,7 +6,7 @@
 A simple app which solves N-variables first degrees equation systems, using Gauss-Seidel method.
 
 ## Usage
-There is a txt-archive into /Project/txt folder. Inside it, on first line, it has to be the number of equation variables.
+This program receives the system through a .txt file. Inside it, on first line, it has to be the number of equation variables.
 On the next lines, a (multi-dimensional)array, representing the system.
 
 ## More
